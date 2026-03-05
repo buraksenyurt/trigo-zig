@@ -37,8 +37,8 @@
     // internet connectivity.
     .dependencies = .{
         .trigo_zig = .{
-            .url = "https://github.com/buraksenyurt/trigo-zig/archive/refs/tags/alpha.zip",
-            .hash = "trigo_zig-0.0.1-4BNYFhgKAACgUckB45gWB1bJPvYpOPD6ou9NLzxixwmU",
+            .url = "https://github.com/buraksenyurt/trigo-zig/archive/refs/tags/v0.0.2-alpha.tar.gz",
+            .hash = "trigo_zig-0.0.2-4BNYFhEPAACeu9CzACCkfJ1yJdV9IBDrrNiCBqZ7Bkzo",
         },
     },
     .paths = .{

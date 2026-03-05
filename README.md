@@ -39,3 +39,9 @@ There is a sample usage in the [example](./example) directory. You can run it wi
 ```bash
 zig build run
 ```
+
+If the packages was updated, you can update it with refetching it:
+
+```bash
+zig fetch --save https://github.com/buraksenyurt/trigo-zig/archive/refs/tags/v0.0.2-alpha.tar.gz
+```
